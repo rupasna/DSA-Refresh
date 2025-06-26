@@ -18,4 +18,10 @@
 15. Palindrome Number : https://leetcode.com/problems/palindrome-number/description/
 16. First Unique Character In A String : https://leetcode.com/problems/first-unique-character-in-a-string/description/
 
+26th June 2025
+1. Maximum Average Subarray : https://leetcode.com/problems/maximum-average-subarray-i/description/
+2. Length of longest substring : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+3. Find All Anagrams in a String : https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
+4. Permutation in a string : https://leetcode.com/problems/permutation-in-string/description/
+
 
